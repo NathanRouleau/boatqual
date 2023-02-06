@@ -5,13 +5,13 @@
 }
 
 // # 1. List your fake users with a GET request
-curl https://mockend.com/org/repo/users
+curl https://mockend.com/NathanRouleau/boatqual/users
 
 //# 2. Fake a creation with a POST
-curl https://mockend.com/org/repo/users \
-  -X POST \
-  -H "Content-Type: application/json" \
+curl https://mockend.com/NathanRouleau/boatqual/users 
+  -X POST 
+  -H "Content-Type: application/json" 
   --data '{"name": "alice"}'
 
 // # 3. Access your GraphQL endpoint
-https://mockend.com/org/repo/graphql
+https://mockend.com/NathanRouleau/boatqual/graphql
