@@ -1,11 +1,11 @@
 {
-  "Bat_Id: {
+  "Bat_Id": {
     "int": {
       "min": 1
       "max": 100
     }
   }
-  "Mod_Code: {
+  "Mod_Code": {
     "string": ["OC5SB", "LG3XB", "CX3LA",  "LG380", "OC5SA", "JY5MA", "JY6MA"]
   }
 }
