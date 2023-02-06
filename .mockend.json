@@ -1,9 +1,9 @@
+
 {
-  "bat_id": {
-    "int": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  "category": {
+    "string": ["One", "Two"]
   },
-  "mod_code": {
-    "string": ["OC5SB", "LG3XB", "CX3LA",  "LG380", "OC5SA", "JY5MA", "JY6MA"]
+  "code": {
+    "int": [100, 200, 300]
   }
 }
- 
