@@ -1,19 +1,19 @@
 {
-  "BoatToRepair": {
+  "boats": {
     "_": {
       "items": 20
     },
-    "Bat_Id": {
+    "bat_id": {
       "int": {
         "min": 0,
         "max": 1000
       }
     },
-    "Mod_Codes": {
-      "hasMany": "Mod_Code"
+    "mod_codes": {
+      "hasMany": "mod_code"
     }
   },
-  "Mod_Code": {
+  "mod_code": {
     "_": {
       "items": 20
     },
