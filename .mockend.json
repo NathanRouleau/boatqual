@@ -1,9 +1,6 @@
 {
   "bat_id": {
-    "int": {
-      "min": 1
-      "max": 100
-    }
+    "int": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
   },
   "mod_code": {
     "string": ["OC5SB", "LG3XB", "CX3LA",  "LG380", "OC5SA", "JY5MA", "JY6MA"]
